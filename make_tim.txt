@@ -1,0 +1,2 @@
+bmp2tim game_1.bmp cd_root/game.tim 16 -org=0,0
+ -mpink
